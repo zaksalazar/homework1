@@ -103,7 +103,7 @@ p {
     max-width: 150px;
 }
 /* below are the style rules for the search engine optimization class selector */
-.search-engine-optimization {
+.contents {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -111,51 +111,18 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-/* below are the style rules for the online reputation management class selector */
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-/*below are the style rules for the social media marketing class selection */
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
+
 /*below is the style rule for the search engine optimization image */ 
-.search-engine-optimization img {
+.contents img {
     max-height: 200px;
 }
-/*below is the style rule for the online reputation management image */ 
-.online-reputation-management img {
-    max-height: 200px;
-}
-/*below is the style rule for the social media marketing image */ 
-.social-media-marketing img {
-    max-height: 200px;
-}
+
 /*below are the style rules for the search engine optimization heading */ 
-.search-engine-optimization h2 {
+.contents h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/*below are the style rules for the online reputation management heading */ 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-/*below are the style rules for the social media marketing heading */ 
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
+
 /*below are the style rules for the footer */
 .footer {
     padding: 30px;
