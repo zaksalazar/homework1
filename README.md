@@ -3,7 +3,7 @@ This challenge was to refactor the HTML and CSS of a given website. This README 
 
 ### Screenshot 
 
-![Homework1 Screenshot](./assets/images/horiseon-1.png)
+![Homework1 Screenshot](master/assets/images/horiseon-1.png)
 
 ### Homework1 Deployed Website 
 https://zaksalazar.github.io/homework1/
