@@ -9,4 +9,3 @@ This challenge was to refactor the HTML and CSS of a given website. This README 
 ### Homework1 Deployed Website
 
 https://zaksalazar.github.io/homework1/
-git 
